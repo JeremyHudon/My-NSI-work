@@ -23,5 +23,5 @@
 <input type="text" id="binaryInput" placeholder="Ex. 1101">
 <button onclick="convertBinaryToDecimal()">Convertir</button>
 <p id="decimalOutput"></p>
-<a href="https://lord-chalex.github.io/My-NSI-work/index">Createur du code </a>
+<a href="https://github.com/JeremyHudon/My-NSI-work/blob/5f123255f646673c554eb784e25afcf88f1f006b/index.html">Createur du code </a>
 
